@@ -13,7 +13,3 @@ A web-based currency converter tool that allows users to convert between differe
 - **React**: JavaScript library for building the user interface.
 - **CSS**: For styling components and layout.
 
-## Setup Instructions
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/currency-converter.git
